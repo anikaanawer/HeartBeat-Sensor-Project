@@ -1,4 +1,4 @@
-# Project Simulation
+# Project simulation
 
 ![simulation ](./Project_simulation.jpg)
 
